@@ -1,4 +1,4 @@
-# DCoin UI
+# DCCoin UI
 
 The repository for DCCoin UI code
 
